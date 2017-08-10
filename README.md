@@ -36,6 +36,21 @@ Speaker Recognition API and related services. By submitting an audio, you confir
 you have consent from everyone in it.
 
 
+
+
+## Donate Me
+
+[![Donate Pay](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=JB96ZRD33B5CS)
+
+Hello Friends, Please donate me some money 100 - 1000 
+
+
+![Screenshot](https://raw.githubusercontent.com/skbhati199/angular4-Quick-Start/master/donateme.png)
+
+### Thank you so much....
+
+
+
 ## Contributing
 We welcome contributions. Feel free to file issues and pull requests on the repo and we'll address them as we can. Learn more about how you can help on our [Contribution Rules & Guidelines](</CONTRIBUTING.md>). 
 
